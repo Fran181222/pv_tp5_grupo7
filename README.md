@@ -19,5 +19,5 @@ los eventos en React y la navegación entre vistas.
 ## Asistecia 26/5
 Brian Agustín Llanos - BrianLlanos1001 
 Davide Arroyo - arrdav
-Quispe Francisco Javier - Fran181222
 Gabriel Ignacio Roel - GabrielGIR
+Quispe Francisco Javier - Fran181222
